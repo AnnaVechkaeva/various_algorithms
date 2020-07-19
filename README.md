@@ -1,4 +1,6 @@
-# K-means clustering 
+# Algorithms implemented
+
+### K-means clustering 
 
 ./kmeans.py
 
