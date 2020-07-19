@@ -2,6 +2,7 @@
 
 ### K-means clustering 
 
+Code : 
 ./kmeans.py
 
 To run the code:
